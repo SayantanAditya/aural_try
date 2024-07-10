@@ -1,5 +1,5 @@
-# REJOUICE-CLONE
-It's a clone website of "rejouice.com"
+# AURAL
+
 
 ## Techstack Usage: HTML - CSS - JavaScript (GSAP)
 ### Clone only for educational purpose...
